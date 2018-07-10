@@ -1,2 +1,2 @@
 # QuickSniff
-Simple packet sniffer in C
+Basic packet sniffer implementation in C
